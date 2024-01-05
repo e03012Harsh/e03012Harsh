@@ -1,0 +1,4 @@
+- 👋 Hi, I'm Harsh.
+- 👀 I’m interested in product development
+- 🌱 I’m currently learning Frontend technologies.
+- 💞️ I’m looking to collaborate on real-world projects that are solving problems using technologies.
